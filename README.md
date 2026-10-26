@@ -31,3 +31,4 @@ Open `index.html` in a browser. No build step, package manager, or framework is 
 
 ## Hosting
 This is a static site and can be hosted on GitHub Pages, Netlify, or Vercel. No live public URL is created by this source package alone.
+# SALONE-STITCH
