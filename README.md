@@ -15,7 +15,7 @@ The static site uses hash routes so collection and product views can be bookmark
 - `#/collections/custom-tailoring`
 - `#/products/mens-teal-formal-suit` (product IDs are defined in `script.js`)
 
-The 21 men’s style-reference photos are stored in `assets/menswear/`, and the 34 women’s style-reference photos are stored in `assets/womenswear/`. Each appears as an individual design in `script.js`. Update the `collections` data when the business confirms its designs, services, descriptions, and prices. Photos are references only; prices, availability, sizes, colours, and fabric options are not represented as confirmed. Product detail enquiry links offer both business WhatsApp numbers.
+The men’s collection contains 37 style-reference photos: 21 are stored in `assets/menswear/`, and 16 additional photos are sourced from `IMG/`. The 34 women’s style-reference photos are stored in `assets/womenswear/`. Each appears as an individual design in `script.js`. Update the `collections` data when the business confirms its designs, services, descriptions, and prices. Photos are references only; prices, availability, sizes, colours, and fabric options are not represented as confirmed. Product detail enquiry links offer both business WhatsApp numbers.
 
 The custom-tailoring route provides men's and women's outfit references, enquiry guidance, and WhatsApp contact options. Its gallery reuses selected collection photos as inspiration only; it does not claim that a particular tailoring service, fabric, price, or completion time is confirmed. Update the tailoring gallery in `script.js` and the tailoring page content in `index.html` when the business confirms its services and terms.
 

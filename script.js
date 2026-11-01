@@ -168,6 +168,125 @@ const collections = {
         type: 'Style reference',
         image: 'assets/menswear/mens-style-21.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-22',
+        name: 'Men’s style reference 22',
+        type: 'Style reference',
+        image: 'IMG/African Dashiki for Men Top and Pants Set African Outfits Formal Wedding Party African Mens Clothing r47 SunYellow Small at Amazon Men’s Clothing store.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-23',
+        name: 'Men’s style reference 23',
+        type: 'Style reference',
+        image: 'IMG/AGBADA for Men, African AGBADA, African Wedding Suit, Groomsmen Suit, Groom\'s Suit, African Men\'s Wear, 3 Piece Men\'s Suit, Free DHL Express - Etsy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-24',
+        name: 'Men’s style reference 24',
+        type: 'Style reference',
+        image: 'IMG/Contact 771793157.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-25',
+        name: 'Men’s style reference 25',
+        type: 'Style reference',
+        image: 'IMG/download (1) copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-26',
+        name: 'Men’s style reference 26',
+        type: 'Style reference',
+        image: 'IMG/download (2) copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-27',
+        name: 'Men’s style reference 27',
+        type: 'Style reference',
+        image: 'IMG/download (3) copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-28',
+        name: 'Men’s style reference 28',
+        type: 'Style reference',
+        image: 'IMG/download (4) copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-29',
+        name: 'Men’s style reference 29',
+        type: 'Style reference',
+        image: 'IMG/download (5) copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-30',
+        name: 'Men’s style reference 30',
+        type: 'Style reference',
+        image: 'IMG/download (6) copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-31',
+        name: 'Men’s style reference 31',
+        type: 'Style reference',
+        image: 'IMG/download (7) copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-32',
+        name: 'Men’s style reference 32',
+        type: 'Style reference',
+        image: 'IMG/download (8) copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-33',
+        name: 'Men’s style reference 33',
+        type: 'Style reference',
+        image: 'IMG/download (9) copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-34',
+        name: 'Men’s style reference 34',
+        type: 'Style reference',
+        image: 'IMG/download (10) copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-35',
+        name: 'Men’s style reference 35',
+        type: 'Style reference',
+        image: 'IMG/download (11) copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-36',
+        name: 'Men’s style reference 36',
+        type: 'Style reference',
+        image: 'IMG/download copy.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-37',
+        name: 'Men’s style reference 37',
+        type: 'Style reference',
+        image: 'IMG/Freshbyafeez.jpg',
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-38',
+        name: 'Gray short-sleeve outfit',
+        type: 'Style reference',
+        image: 'IMG/download copy 2.jpg',
+        description: 'A gray short-sleeve outfit shared as a style reference. Enquire about similar designs and current options.'
       }
     ]
   },
@@ -414,6 +533,13 @@ const collections = {
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-34.jpg',
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'womens-style-reference-35',
+        name: 'White lace bubu gown',
+        type: 'Style reference',
+        image: 'female/25 White Lace Bubu Gown Styles_ Elegant Looks for Every Occasion.jpg',
+        description: 'A white lace bubu gown style reference. Enquire about similar designs and current options.'
       }
     ]
   },
