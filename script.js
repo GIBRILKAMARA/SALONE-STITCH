@@ -402,7 +402,7 @@ const collections = {
         id: 'womens-brown-embroidered-danshiki',
         name: 'Brown embroidered danshiki',
         type: 'Traditional style reference',
-        image: 'assets/womenswear/womens-style-06.jpg',
+        image: 'assets/female/womens-design-06-replacement.jpg',
         price: 850,
         description: 'A brown embroidered traditional outfit reference. Enquire about similar designs and options.'
       },
@@ -602,7 +602,7 @@ const collections = {
         id: 'womens-family-embroidered-outfits',
         name: 'Coordinated embroidered outfits',
         type: 'Family style reference',
-        image: 'assets/womenswear/womens-style-31.jpg',
+        image: 'assets/female/womens-design-31-replacement.jpg',
         price: 700,
         description: 'A coordinated family outfit photo shared as a style reference. Ask the team about similar designs.'
       },
