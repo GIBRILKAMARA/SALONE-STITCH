@@ -35,7 +35,7 @@ const collections = {
         name: 'Yellow embroidered boys’ robe',
         type: 'Traditional style reference',
         image: 'assets/menswear/yellow-embroidered-boys-robe.jpg',
-        price: 687,
+        price: 700,
         description: 'An embroidered robe reference for boys. Ask the team about age or size options and whether a similar style can be made.'
       },
       {
@@ -43,7 +43,7 @@ const collections = {
         name: 'Purple traditional set',
         type: 'Traditional style reference',
         image: 'assets/menswear/purple-traditional-set.jpg',
-        price: 724,
+        price: 750,
         description: 'A purple traditional outfit reference. Ask whether a similar style can be made or is currently available.'
       },
       {
@@ -51,7 +51,7 @@ const collections = {
         name: 'Light-blue embroidered set',
         type: 'Traditional style reference',
         image: 'assets/menswear/light-blue-embroidered-set.jpg',
-        price: 761,
+        price: 800,
         description: 'A light-blue embroidered two-piece outfit reference. Ask whether a similar design can be made or is available.'
       },
       {
@@ -59,7 +59,7 @@ const collections = {
         name: 'Lime-green traditional set',
         type: 'Traditional style reference',
         image: 'assets/menswear/lime-green-traditional-set.jpg',
-        price: 798,
+        price: 850,
         description: 'A lime-green coordinated outfit reference. Ask the team about similar designs and current options.'
       },
       {
@@ -67,7 +67,7 @@ const collections = {
         name: 'Green tunic set',
         type: 'Traditional style reference',
         image: 'assets/menswear/green-tunic-set.jpg',
-        price: 835,
+        price: 650,
         description: 'A green tunic and trousers outfit reference. Ask whether a similar design can be made or is available.'
       },
       {
@@ -75,7 +75,7 @@ const collections = {
         name: 'Deep-green tunic set',
         type: 'Traditional style reference',
         image: 'assets/menswear/deep-green-tunic-set.jpg',
-        price: 671,
+        price: 700,
         description: 'A deep-green tunic outfit reference with dark accents. Ask the team about similar styles and options.'
       },
       {
@@ -83,7 +83,7 @@ const collections = {
         name: 'Brown embroidered robe',
         type: 'Traditional style reference',
         image: 'assets/menswear/brown-embroidered-robe.jpg',
-        price: 708,
+        price: 750,
         description: 'A brown robe with embroidered detailing, shown as a style reference. Enquire about similar designs.'
       },
       {
@@ -91,7 +91,7 @@ const collections = {
         name: 'Purple kaftan set',
         type: 'Traditional style reference',
         image: 'assets/menswear/purple-kaftan-set.jpg',
-        price: 745,
+        price: 800,
         description: 'A purple kaftan-style outfit reference. Ask whether a similar design can be made or is available.'
       },
       {
@@ -99,7 +99,7 @@ const collections = {
         name: 'Burgundy embroidered robe',
         type: 'Traditional style reference',
         image: 'assets/menswear/burgundy-embroidered-robe.jpg',
-        price: 782,
+        price: 850,
         description: 'A burgundy robe with embroidered detailing, shown as a style reference. Ask the team about similar options.'
       },
       {
@@ -107,7 +107,7 @@ const collections = {
         name: 'Purple traditional outfit',
         type: 'Traditional style reference',
         image: 'assets/menswear/purple-traditional-outfit.jpg',
-        price: 819,
+        price: 650,
         description: 'A purple tunic and trousers outfit reference. Ask whether a similar design can be made or is available.'
       },
       {
@@ -115,7 +115,7 @@ const collections = {
         name: 'Mint-green tunic set',
         type: 'Traditional style reference',
         image: 'assets/menswear/mint-green-tunic-set.jpg',
-        price: 655,
+        price: 700,
         description: 'A mint-green tunic and trousers outfit reference. Enquire about similar designs and available options.'
       },
       {
@@ -123,7 +123,7 @@ const collections = {
         name: 'Taupe short-sleeve set',
         type: 'Casual style reference',
         image: 'assets/menswear/taupe-short-sleeve-set.jpg',
-        price: 692,
+        price: 750,
         description: 'A taupe short-sleeve coordinated outfit reference. Ask whether a similar style can be made or is available.'
       },
       {
@@ -131,7 +131,7 @@ const collections = {
         name: 'Blue short-sleeve set',
         type: 'Casual style reference',
         image: 'assets/menswear/blue-short-sleeve-set.jpg',
-        price: 729,
+        price: 800,
         description: 'A blue short-sleeve coordinated outfit reference. Enquire about similar designs and current options.'
       },
       {
@@ -139,7 +139,7 @@ const collections = {
         name: 'Navy embroidered tunic',
         type: 'Traditional style reference',
         image: 'assets/menswear/navy-embroidered-tunic.jpg',
-        price: 766,
+        price: 850,
         description: 'A navy tunic with gold-coloured embroidery, shown as a style reference. Ask about similar designs.'
       },
       {
@@ -147,7 +147,7 @@ const collections = {
         name: 'Blue striped long-sleeve set',
         type: 'Smart casual style reference',
         image: 'assets/menswear/blue-striped-long-sleeve-set.jpg',
-        price: 803,
+        price: 650,
         description: 'A blue long-sleeve coordinated outfit with contrasting stripe details. Ask whether a similar design is available.'
       },
       {
@@ -155,7 +155,7 @@ const collections = {
         name: 'White and black casual set',
         type: 'Casual style reference',
         image: 'assets/menswear/white-and-black-casual-set.jpg',
-        price: 840,
+        price: 700,
         description: 'A white casual outfit with black accents, shown as a style reference. Enquire about similar options.'
       },
       {
@@ -163,7 +163,7 @@ const collections = {
         name: 'Gold embroidered tunic',
         type: 'Traditional style reference',
         image: 'assets/menswear/gold-embroidered-tunic.jpg',
-        price: 676,
+        price: 750,
         description: 'A gold-coloured tunic with embroidered detailing. Ask whether a similar design can be made or is available.'
       },
       {
@@ -171,7 +171,7 @@ const collections = {
         name: 'Community formal style · 1',
         type: 'Customer photo reference',
         image: 'assets/menswear/blue-white-coordinated-set.jpg',
-        price: 713,
+        price: 800,
         description: 'A customer-provided community photo showing a formal outfit. Enquire about similar styles and options.'
       },
       {
@@ -179,7 +179,7 @@ const collections = {
         name: 'Community formal style · 2',
         type: 'Customer photo reference',
         image: 'assets/menswear/brown-cream-coordinated-set.jpg',
-        price: 750,
+        price: 850,
         description: 'A customer-provided community photo showing formal and casual outfits. Enquire about similar styles and options.'
       },
       {
@@ -187,7 +187,7 @@ const collections = {
         name: 'Men’s style reference 21',
         type: 'Style reference',
         image: 'assets/menswear/mens-style-21.jpg',
-        price: 787,
+        price: 650,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -195,7 +195,7 @@ const collections = {
         name: 'Men’s style reference 22',
         type: 'Style reference',
         image: 'assets/menswear/yellow-embroidered-boys-robe.jpg',
-        price: 824,
+        price: 700,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -203,7 +203,7 @@ const collections = {
         name: 'Men’s style reference 23',
         type: 'Style reference',
         image: 'assets/menswear/brown-embroidered-robe.jpg',
-        price: 660,
+        price: 750,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -211,7 +211,7 @@ const collections = {
         name: 'Men’s style reference 24',
         type: 'Style reference',
         image: 'assets/menswear/white-navy-colorblock-walking-suit.jpg',
-        price: 697,
+        price: 800,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -219,7 +219,7 @@ const collections = {
         name: 'Men’s style reference 25',
         type: 'Style reference',
         image: 'assets/menswear/purple-traditional-set.jpg',
-        price: 734,
+        price: 850,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -227,7 +227,7 @@ const collections = {
         name: 'Men’s style reference 26',
         type: 'Style reference',
         image: 'assets/menswear/light-blue-embroidered-set.jpg',
-        price: 771,
+        price: 650,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -235,7 +235,7 @@ const collections = {
         name: 'Men’s style reference 27',
         type: 'Style reference',
         image: 'assets/menswear/lime-green-traditional-set.jpg',
-        price: 808,
+        price: 700,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -243,7 +243,7 @@ const collections = {
         name: 'Men’s style reference 28',
         type: 'Style reference',
         image: 'assets/menswear/green-tunic-set.jpg',
-        price: 845,
+        price: 750,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -251,7 +251,7 @@ const collections = {
         name: 'Men’s style reference 29',
         type: 'Style reference',
         image: 'assets/menswear/deep-green-tunic-set.jpg',
-        price: 681,
+        price: 800,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -259,7 +259,7 @@ const collections = {
         name: 'Men’s style reference 30',
         type: 'Style reference',
         image: 'assets/menswear/purple-kaftan-set.jpg',
-        price: 718,
+        price: 850,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -267,7 +267,7 @@ const collections = {
         name: 'Men’s style reference 31',
         type: 'Style reference',
         image: 'assets/menswear/burgundy-embroidered-robe.jpg',
-        price: 755,
+        price: 650,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -275,7 +275,7 @@ const collections = {
         name: 'Men’s style reference 32',
         type: 'Style reference',
         image: 'assets/menswear/purple-traditional-outfit.jpg',
-        price: 792,
+        price: 700,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -283,7 +283,7 @@ const collections = {
         name: 'Men’s style reference 33',
         type: 'Style reference',
         image: 'assets/menswear/mint-green-tunic-set.jpg',
-        price: 829,
+        price: 750,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -291,7 +291,7 @@ const collections = {
         name: 'Men’s style reference 34',
         type: 'Style reference',
         image: 'assets/menswear/taupe-short-sleeve-set.jpg',
-        price: 665,
+        price: 800,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -299,7 +299,7 @@ const collections = {
         name: 'Men’s style reference 35',
         type: 'Style reference',
         image: 'assets/menswear/blue-short-sleeve-set.jpg',
-        price: 702,
+        price: 850,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -307,7 +307,7 @@ const collections = {
         name: 'Men’s style reference 36',
         type: 'Style reference',
         image: 'assets/menswear/navy-embroidered-tunic.jpg',
-        price: 739,
+        price: 650,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -315,7 +315,7 @@ const collections = {
         name: 'Men’s style reference 37',
         type: 'Style reference',
         image: 'assets/menswear/blue-striped-long-sleeve-set.jpg',
-        price: 776,
+        price: 700,
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -323,7 +323,7 @@ const collections = {
         name: 'Gray short-sleeve outfit',
         type: 'Style reference',
         image: 'assets/menswear/white-and-black-casual-set.jpg',
-        price: 813,
+        price: 750,
         description: 'A gray short-sleeve outfit shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -331,7 +331,7 @@ const collections = {
         name: 'Olive-and-white walking suit',
         type: 'Style reference',
         image: 'assets/menswear/olive-white-colorblock-walking-suit.jpg',
-        price: 850,
+        price: 800,
         description: 'An olive-and-white colorblock walking suit shared as a style reference. Enquire about similar styles and options.'
       },
       {
@@ -339,7 +339,7 @@ const collections = {
         name: 'Blue tunic set',
         type: 'Style reference',
         image: 'assets/menswear/blue-tunic-trouser-set.jpg',
-        price: 686,
+        price: 850,
         description: 'A blue tunic and trouser set shared as a style reference. Enquire about similar styles and options.'
       },
       {
@@ -347,7 +347,7 @@ const collections = {
         name: 'Navy formal jacket',
         type: 'Style reference',
         image: 'assets/menswear/navy-formal-jacket.jpg',
-        price: 850,
+        price: 650,
         description: 'A navy formal jacket and trouser outfit shared as a style reference. Enquire about similar styles and options.'
       }
     ]
@@ -371,7 +371,7 @@ const collections = {
         name: 'Deep-green embroidered set',
         type: 'Traditional style reference',
         image: 'assets/womenswear/womens-style-02.jpg',
-        price: 653,
+        price: 650,
         description: 'A deep-green coordinated outfit with embroidered detailing. Enquire about similar designs and current options.'
       },
       {
@@ -379,7 +379,7 @@ const collections = {
         name: 'African stripe poncho co-ord',
         type: 'Smart casual style reference',
         image: 'assets/womenswear/womens-style-03.jpg',
-        price: 706,
+        price: 700,
         description: 'A colourful striped poncho and trouser look shown as a style reference. Ask whether a similar design can be made.'
       },
       {
@@ -387,7 +387,7 @@ const collections = {
         name: 'Ankara bubu gown',
         type: 'Ankara style reference',
         image: 'assets/womenswear/womens-style-04.jpg',
-        price: 759,
+        price: 750,
         description: 'A printed bubu gown reference shown from front and back. Enquire about similar styles and options.'
       },
       {
@@ -395,7 +395,7 @@ const collections = {
         name: 'Purple aso-oke gown',
         type: 'Traditional style reference',
         image: 'assets/womenswear/womens-style-05.jpg',
-        price: 812,
+        price: 800,
         description: 'A purple striped traditional gown reference. Ask whether a similar design can be made or is available.'
       },
       {
@@ -403,7 +403,7 @@ const collections = {
         name: 'Brown embroidered danshiki',
         type: 'Traditional style reference',
         image: 'assets/womenswear/womens-style-06.jpg',
-        price: 865,
+        price: 850,
         description: 'A brown embroidered traditional outfit reference. Enquire about similar designs and options.'
       },
       {
@@ -411,7 +411,7 @@ const collections = {
         name: 'Classic female agbada',
         type: 'Traditional style reference',
         image: 'assets/womenswear/womens-style-07.jpg',
-        price: 617,
+        price: 900,
         description: 'A classic agbada-inspired outfit reference. Ask the team whether a similar style can be made.'
       },
       {
@@ -419,7 +419,7 @@ const collections = {
         name: 'Women’s style reference 08',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-08.jpg',
-        price: 670,
+        price: 600,
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -427,7 +427,7 @@ const collections = {
         name: 'Women’s style reference 09',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-09.jpg',
-        price: 723,
+        price: 650,
         description: 'A women’s outfit photo shared as a style reference. Ask whether a similar design can be made or is available.'
       },
       {
@@ -435,7 +435,7 @@ const collections = {
         name: 'Women’s style reference 10',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-10.jpg',
-        price: 776,
+        price: 700,
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and options.'
       },
       {
@@ -443,7 +443,7 @@ const collections = {
         name: 'Women’s style reference 11',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-11.jpg',
-        price: 829,
+        price: 750,
         description: 'A women’s outfit photo shared as a style reference. Ask the team about similar designs and current options.'
       },
       {
@@ -451,7 +451,7 @@ const collections = {
         name: 'Women’s style reference 12',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-12.jpg',
-        price: 882,
+        price: 800,
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and options.'
       },
       {
@@ -459,7 +459,7 @@ const collections = {
         name: 'Women’s style reference 13',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-13.jpg',
-        price: 634,
+        price: 850,
         description: 'A women’s outfit photo shared as a style reference. Ask whether a similar design can be made or is available.'
       },
       {
@@ -467,7 +467,7 @@ const collections = {
         name: 'Women’s style reference 14',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-14.jpg',
-        price: 687,
+        price: 900,
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and options.'
       },
       {
@@ -475,7 +475,7 @@ const collections = {
         name: 'Women’s style reference 15',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-15.jpg',
-        price: 740,
+        price: 600,
         description: 'A women’s outfit photo shared as a style reference. Ask the team about similar designs and current options.'
       },
       {
@@ -483,7 +483,7 @@ const collections = {
         name: 'Women’s style reference 16',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-16.jpg',
-        price: 793,
+        price: 650,
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and options.'
       },
       {
@@ -491,7 +491,7 @@ const collections = {
         name: 'Women’s style reference 17',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-17.jpg',
-        price: 846,
+        price: 700,
         description: 'A women’s outfit photo shared as a style reference. Ask whether a similar design can be made or is available.'
       },
       {
@@ -499,7 +499,7 @@ const collections = {
         name: 'Women’s style reference 18',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-18.jpg',
-        price: 899,
+        price: 750,
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and options.'
       },
       {
@@ -507,7 +507,7 @@ const collections = {
         name: 'Women’s style reference 19',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-19.jpg',
-        price: 651,
+        price: 800,
         description: 'A women’s outfit photo shared as a style reference. Ask the team about similar designs and current options.'
       },
       {
@@ -515,7 +515,7 @@ const collections = {
         name: 'Women’s style reference 20',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-20.jpg',
-        price: 704,
+        price: 850,
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and options.'
       },
       {
@@ -523,7 +523,7 @@ const collections = {
         name: 'Women’s style reference 21',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-21.jpg',
-        price: 757,
+        price: 900,
         description: 'A women’s outfit photo shared as a style reference. Ask whether a similar design can be made or is available.'
       },
       {
@@ -531,7 +531,7 @@ const collections = {
         name: 'Women’s style reference 22',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-22.jpg',
-        price: 810,
+        price: 600,
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and options.'
       },
       {
@@ -539,7 +539,7 @@ const collections = {
         name: 'Women’s style reference 23',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-23.jpg',
-        price: 863,
+        price: 650,
         description: 'A women’s outfit photo shared as a style reference. Ask the team about similar designs and current options.'
       },
       {
@@ -547,7 +547,7 @@ const collections = {
         name: 'Women’s style reference 24',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-24.jpg',
-        price: 615,
+        price: 700,
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and options.'
       },
       {
@@ -555,7 +555,7 @@ const collections = {
         name: 'Ankara design trio',
         type: 'Ankara style reference',
         image: 'assets/womenswear/womens-style-25.jpg',
-        price: 668,
+        price: 750,
         description: 'A photo featuring several Ankara design references. Ask the team about similar designs and available options.'
       },
       {
@@ -563,7 +563,7 @@ const collections = {
         name: 'Aso-oke and Adire fusion bubu',
         type: 'Traditional style reference',
         image: 'assets/womenswear/womens-style-26.jpg',
-        price: 721,
+        price: 800,
         description: 'A bubu-style outfit combining aso-oke and Adire-inspired details. Enquire about similar designs.'
       },
       {
@@ -571,7 +571,7 @@ const collections = {
         name: 'Black and white Adire bubu',
         type: 'Adire style reference',
         image: 'assets/womenswear/womens-style-27.jpg',
-        price: 774,
+        price: 850,
         description: 'A black and white Adire bubu outfit reference. Ask whether a similar design can be made or is available.'
       },
       {
@@ -579,7 +579,7 @@ const collections = {
         name: 'White embroidered ensemble',
         type: 'Occasion style reference',
         image: 'assets/womenswear/womens-style-28.jpg',
-        price: 827,
+        price: 900,
         description: 'A white outfit with contrasting embroidered details, shown as a style reference. Enquire about similar options.'
       },
       {
@@ -587,7 +587,7 @@ const collections = {
         name: 'Golden embroidered robe',
         type: 'Traditional style reference',
         image: 'assets/womenswear/womens-style-29.jpg',
-        price: 880,
+        price: 600,
         description: 'A golden robe with embroidered detailing, shown as a style reference. Ask about similar designs and options.'
       },
       {
@@ -595,7 +595,7 @@ const collections = {
         name: 'Royal-blue embroidered robe',
         type: 'Traditional style reference',
         image: 'assets/womenswear/womens-style-30.jpg',
-        price: 632,
+        price: 650,
         description: 'A royal-blue robe with geometric embroidered details. Enquire about similar designs and options.'
       },
       {
@@ -603,7 +603,7 @@ const collections = {
         name: 'Coordinated embroidered outfits',
         type: 'Family style reference',
         image: 'assets/womenswear/womens-style-31.jpg',
-        price: 685,
+        price: 700,
         description: 'A coordinated family outfit photo shared as a style reference. Ask the team about similar designs.'
       },
       {
@@ -611,7 +611,7 @@ const collections = {
         name: 'Women’s style reference 32',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-32.jpg',
-        price: 738,
+        price: 750,
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
@@ -619,7 +619,7 @@ const collections = {
         name: 'Brown embroidered two-piece',
         type: 'Traditional style reference',
         image: 'assets/womenswear/womens-style-33.jpg',
-        price: 791,
+        price: 800,
         description: 'A brown embroidered tunic and trouser outfit reference. Ask whether a similar design can be made or is available.'
       },
       {
@@ -627,7 +627,7 @@ const collections = {
         name: 'Women’s style reference 34',
         type: 'Style reference',
         image: 'assets/womenswear/womens-style-34.jpg',
-        price: 844,
+        price: 850,
         description: 'A women’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
