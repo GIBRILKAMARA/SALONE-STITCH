@@ -152,15 +152,15 @@ const collections = {
         id: 'mens-community-formal-style-one',
         name: 'Community formal style · 1',
         type: 'Customer photo reference',
-        image: 'assets/menswear/community-formal-style-one.jpeg',
-        description: 'A customer-provided community photo showing a formal outfit. Enquire about similar styles and options.'
+        image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/download%20%282%29-hr4zAslLDBi9b58JEFcEWh9v9zy4Yx.jpg',
+        description: 'A blue-and-white coordinated shirt and trouser outfit shared as a style reference. Enquire about similar styles and options.'
       },
       {
         id: 'mens-community-formal-style-two',
         name: 'Community formal style · 2',
         type: 'Customer photo reference',
-        image: 'assets/menswear/community-formal-style-two.jpeg',
-        description: 'A customer-provided community photo showing formal and casual outfits. Enquire about similar styles and options.'
+        image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/download%20%283%29-H0KcbNhxJSpOBQvirlJW6XTg6MDljm.jpg',
+        description: 'A brown-and-cream coordinated shirt and trouser outfit shared as a style reference. Enquire about similar styles and options.'
       },
       {
         id: 'mens-style-reference-21',
@@ -187,8 +187,8 @@ const collections = {
         id: 'mens-style-reference-24',
         name: 'Men’s style reference 24',
         type: 'Style reference',
-        image: 'assets/menswear/community-formal-style-one.jpeg',
-        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
+        image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Colorblock%20Walking%20Suits%20sg-IYuE4VB3DXGUAQimKIoqlyroLQUWJV.jpg',
+        description: 'A white-and-navy colorblock walking suit shared as a style reference. Enquire about similar styles and options.'
       },
       {
         id: 'mens-style-reference-25',
@@ -287,6 +287,27 @@ const collections = {
         type: 'Style reference',
         image: 'assets/menswear/white-and-black-casual-set.jpg',
         description: 'A gray short-sleeve outfit shared as a style reference. Enquire about similar designs and current options.'
+      },
+      {
+        id: 'mens-style-reference-39',
+        name: 'Olive-and-white walking suit',
+        type: 'Style reference',
+        image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/download%20%284%29-nbRsGZiTuJVmFH8HUFS6dKwhPm7QIk.jpg',
+        description: 'An olive-and-white colorblock walking suit shared as a style reference. Enquire about similar styles and options.'
+      },
+      {
+        id: 'mens-style-reference-40',
+        name: 'Blue tunic set',
+        type: 'Style reference',
+        image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/download-tC6VNgtrgoI6dgtJvl3dZMLkzxbwih.jpg',
+        description: 'A blue tunic and trouser set shared as a style reference. Enquire about similar styles and options.'
+      },
+      {
+        id: 'mens-style-reference-41',
+        name: 'Navy formal jacket',
+        type: 'Style reference',
+        image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/download%20%281%29-7bACpeoySEH8WWc9SsLtxHAtDWQHpB.jpg',
+        description: 'A navy formal jacket and trouser outfit shared as a style reference. Enquire about similar styles and options.'
       }
     ]
   },
