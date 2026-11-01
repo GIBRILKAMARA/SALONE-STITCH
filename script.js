@@ -538,7 +538,7 @@ const collections = {
         id: 'womens-style-reference-35',
         name: 'White lace bubu gown',
         type: 'Style reference',
-        image: 'female/25 White Lace Bubu Gown Styles_ Elegant Looks for Every Occasion.jpg',
+        image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Comfortable%20V-neck%20Contrast%20Short%20Sleeve%20Loose%20Maxi%20Dress-HGy6e6FM2gK6MHNKCcquRxMonwYjuL.jpg',
         description: 'A white lace bubu gown style reference. Enquire about similar designs and current options.'
       }
     ]
