@@ -680,7 +680,10 @@ function openCollection(key, scroll = true) {
     const image = document.createElement('img');
     image.src = design.image || collection.image;
     image.alt = `Photo reference for ${design.name}`;
+    image.width = 480;
+    image.height = 540;
     image.loading = 'lazy';
+    image.decoding = 'async';
     imageLink.append(image);
 
     const copy = document.createElement('div');
@@ -728,7 +731,10 @@ function renderTailoringGallery(filter = 'all') {
       const image = document.createElement('img');
       image.src = design.image;
       image.alt = `Style reference for ${design.name}`;
+      image.width = 480;
+      image.height = 545;
       image.loading = 'lazy';
+      image.decoding = 'async';
       imageLink.append(image);
 
       const copy = document.createElement('div');
