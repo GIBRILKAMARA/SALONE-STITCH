@@ -153,14 +153,14 @@ const collections = {
         name: 'Community formal style · 1',
         type: 'Customer photo reference',
         image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/download%20%282%29-hr4zAslLDBi9b58JEFcEWh9v9zy4Yx.jpg',
-        description: 'A blue-and-white coordinated shirt and trouser outfit shared as a style reference. Enquire about similar styles and options.'
+        description: 'A customer-provided community photo showing a formal outfit. Enquire about similar styles and options.'
       },
       {
         id: 'mens-community-formal-style-two',
         name: 'Community formal style · 2',
         type: 'Customer photo reference',
         image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/download%20%283%29-H0KcbNhxJSpOBQvirlJW6XTg6MDljm.jpg',
-        description: 'A brown-and-cream coordinated shirt and trouser outfit shared as a style reference. Enquire about similar styles and options.'
+        description: 'A customer-provided community photo showing formal and casual outfits. Enquire about similar styles and options.'
       },
       {
         id: 'mens-style-reference-21',
@@ -188,7 +188,7 @@ const collections = {
         name: 'Men’s style reference 24',
         type: 'Style reference',
         image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Colorblock%20Walking%20Suits%20sg-IYuE4VB3DXGUAQimKIoqlyroLQUWJV.jpg',
-        description: 'A white-and-navy colorblock walking suit shared as a style reference. Enquire about similar styles and options.'
+        description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-25',
