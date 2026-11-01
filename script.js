@@ -173,119 +173,119 @@ const collections = {
         id: 'mens-style-reference-22',
         name: 'Men’s style reference 22',
         type: 'Style reference',
-        image: 'IMG/African Dashiki for Men Top and Pants Set African Outfits Formal Wedding Party African Mens Clothing r47 SunYellow Small at Amazon Men’s Clothing store.jpg',
+        image: 'assets/menswear/yellow-embroidered-boys-robe.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-23',
         name: 'Men’s style reference 23',
         type: 'Style reference',
-        image: 'IMG/AGBADA for Men, African AGBADA, African Wedding Suit, Groomsmen Suit, Groom\'s Suit, African Men\'s Wear, 3 Piece Men\'s Suit, Free DHL Express - Etsy.jpg',
+        image: 'assets/menswear/brown-embroidered-robe.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-24',
         name: 'Men’s style reference 24',
         type: 'Style reference',
-        image: 'IMG/Contact 771793157.jpg',
+        image: 'assets/menswear/community-formal-style-one.jpeg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-25',
         name: 'Men’s style reference 25',
         type: 'Style reference',
-        image: 'IMG/download (1) copy.jpg',
+        image: 'assets/menswear/purple-traditional-set.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-26',
         name: 'Men’s style reference 26',
         type: 'Style reference',
-        image: 'IMG/download (2) copy.jpg',
+        image: 'assets/menswear/light-blue-embroidered-set.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-27',
         name: 'Men’s style reference 27',
         type: 'Style reference',
-        image: 'IMG/download (3) copy.jpg',
+        image: 'assets/menswear/lime-green-traditional-set.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-28',
         name: 'Men’s style reference 28',
         type: 'Style reference',
-        image: 'IMG/download (4) copy.jpg',
+        image: 'assets/menswear/green-tunic-set.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-29',
         name: 'Men’s style reference 29',
         type: 'Style reference',
-        image: 'IMG/download (5) copy.jpg',
+        image: 'assets/menswear/deep-green-tunic-set.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-30',
         name: 'Men’s style reference 30',
         type: 'Style reference',
-        image: 'IMG/download (6) copy.jpg',
+        image: 'assets/menswear/purple-kaftan-set.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-31',
         name: 'Men’s style reference 31',
         type: 'Style reference',
-        image: 'IMG/download (7) copy.jpg',
+        image: 'assets/menswear/burgundy-embroidered-robe.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-32',
         name: 'Men’s style reference 32',
         type: 'Style reference',
-        image: 'IMG/download (8) copy.jpg',
+        image: 'assets/menswear/purple-traditional-outfit.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-33',
         name: 'Men’s style reference 33',
         type: 'Style reference',
-        image: 'IMG/download (9) copy.jpg',
+        image: 'assets/menswear/mint-green-tunic-set.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-34',
         name: 'Men’s style reference 34',
         type: 'Style reference',
-        image: 'IMG/download (10) copy.jpg',
+        image: 'assets/menswear/taupe-short-sleeve-set.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-35',
         name: 'Men’s style reference 35',
         type: 'Style reference',
-        image: 'IMG/download (11) copy.jpg',
+        image: 'assets/menswear/blue-short-sleeve-set.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-36',
         name: 'Men’s style reference 36',
         type: 'Style reference',
-        image: 'IMG/download copy.jpg',
+        image: 'assets/menswear/navy-embroidered-tunic.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-37',
         name: 'Men’s style reference 37',
         type: 'Style reference',
-        image: 'IMG/Freshbyafeez.jpg',
+        image: 'assets/menswear/blue-striped-long-sleeve-set.jpg',
         description: 'A men’s outfit photo shared as a style reference. Enquire about similar designs and current options.'
       },
       {
         id: 'mens-style-reference-38',
         name: 'Gray short-sleeve outfit',
         type: 'Style reference',
-        image: 'IMG/download copy 2.jpg',
+        image: 'assets/menswear/white-and-black-casual-set.jpg',
         description: 'A gray short-sleeve outfit shared as a style reference. Enquire about similar designs and current options.'
       }
     ]
